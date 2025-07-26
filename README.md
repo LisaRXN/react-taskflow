@@ -1,6 +1,6 @@
 # 🧩 TaskFlow
 
-**TaskFlow** is a simple task management app built with React. It allows users to organize tasks into columns like "To do", "In progress", and "Done". Tasks can be added, deleted, and moved between columns.
+TaskFlow is a simple yet dynamic task management board built with React. It allows users to add, move, and delete tasks across columns like "To Do", "In Progress", and "Done", with a clean drag-and-drop experience.
 
 ---
 
@@ -62,11 +62,21 @@
 
 ---
 
-## 🧪 Running the Project
+## 🚀 Getting Started
 
 ```bash
 npm install
 npm start
+```
+
+---
+## 🧪 Run Tests
+
+```bash
+npm test
+```
+
+---
 
 
 🧑‍💻 Author
